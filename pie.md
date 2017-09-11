@@ -6,6 +6,6 @@ Pie is nice
 
 Key Lime is better than Apple.
 
-### Cheescake
+### Cheesecake
 
 Cheesecake is not pie, but also delicious.
