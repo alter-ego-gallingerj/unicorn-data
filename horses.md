@@ -8,4 +8,4 @@ Ponies are also lovely.
 
 [What is a unicorn?](https://en.wikipedia.org/wiki/Unicorn)
 
-Unicorns are inferior beasts.
+Horses eat hay.
