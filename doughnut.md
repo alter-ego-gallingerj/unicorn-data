@@ -2,4 +2,4 @@
 
 ## can eat them everyday 
 
-### Chocolate, Strawberry, Lemon
+### Chocolate, Strawberry, Lemon, Maple
