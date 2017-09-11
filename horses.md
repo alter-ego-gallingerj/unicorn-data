@@ -1,6 +1,6 @@
 # Horses
 
-Horses are lovely.
+Horses are **lovely**.
 
 ## Ponies
 
